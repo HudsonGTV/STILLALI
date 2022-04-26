@@ -7,5 +7,5 @@ What it was designed for:
 - Intel 8088 (An NEC V20 should work as well of course, and it will run on anything faster)
 - Amber Phosphor Monochrome CRT (or CRT that has an amber monochrome text mode like the NEC MultiSync II)
 
-Video of it in action:
+Click to see video of it in action: -->
 [![Youtube embed](https://img.youtube.com/vi/HdzImxI47W4/0.jpg)](https://www.youtube.com/watch?v=HdzImxI47W4)
