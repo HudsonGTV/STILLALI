@@ -1,6 +1,7 @@
 # STILLALI
 
-I wanted to "challenge" myself to see what I could create in 3 days with a language I had zero experience with (so this is my first QBASIC program). I learned new stuff as I went along, so the code is pretty sloppy. The problem is that the delays between notes had to be different, so there was not a very neat way to lay it out.
+This code is abolutely horrendous and doesn't reflect my normal code.
+I wanted to see what I could make with a language I had zero experience with using a basic reference summary written in the 1980s without looking up any functions (so this is my first QBASIC program). I learned new stuff as I went along, so the code is pretty sloppy. The problem is that the delays between notes had to be different, so there was not a very neat way to lay it out.
 
 
 What it was designed for:
